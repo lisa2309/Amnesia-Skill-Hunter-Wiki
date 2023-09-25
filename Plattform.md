@@ -1,0 +1,1 @@
+Das Spiel wird für Plattform Windows 10 entwickelt.

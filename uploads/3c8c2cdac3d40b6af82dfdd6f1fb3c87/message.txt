@@ -1,0 +1,34 @@
+Bugs (?)
+
+- Wenn ich einmal gestorben bin, lande ich wieder im Dorf. Danach kann ich nicht mehr durch das Portal - ich spawne jedes Mal wieder am Anfang.
+- Gegner mit dem lilanen Umhang - sollen die nichts anderes machen als vor MC wegzulaufen? Weil sie sehen nach Feuerball aus, rennen aber immer nur weg, bis sie an einer Kante sind xd
+    - Update: Jetzt hat einer einen Feuerangriff gemacht, aber nur um sich herum und ich war nicht wirklich in der Nähe
+- Habe Bogenschütze getötet, einen Pfeil abgeschossen und konnte danach nicht mehr springen und auch nicht mehr richtig laufen (hab ein Video gemacht, falls du das brauchst)
+- Bogenschütze getötet, dann noch einen mit Pfeil getötet, und konnte dann keine Pfeile mehr verschießen (vielleicht ist mein Pfeil weiter nach rechts geflogen und hat dort ein Skelett getötet, das ich noch nicht sehen konnte? Verwirrend aus Spielersicht)
+- ich hatte einmal 5 Leben, habe ein Skelett angegriffen (oder vlt bin ich auch reingerannt?); bin auf jeden Fall ins Dorf zurückverfrachtet worden - danach ins Portal, was funktioniert hat, allerdings habe ich nun 0 Leben; Wenn ich das nächste Mal sterbe, komme ich wieder nicht durch das Portal
+- niedriges Leben piepst auch, wenn das Volumen im Menü auf 0 gestellt wurde und ich mag das Piepen wirklich so gar nicht :(
+- Wenn ich gestorben bin, habe ich die Fähigkeit vom letzten Gegner noch; und die Animation (das Feuer) ist hinter den Assets
+- manchmal verschwinden Gegner einfach, anstatt ihre Todesanimation zu machen (oder soll das bei den Magiern so sein?)
+- Pfeile werden nur nach rechts verschossen, obwohl MC nach links schaut. Wenn ich mich danach umdrehe (nach rechts laufe), dann werden jetzt alle Pfeile nach links verschossen
+    - Passiert nur, wenn ich den Bogenschützen töte, während ich rechts von ihm bin
+- Habe den Boss (den großen Magier) besiegt und bin wieder im Dorf - gleiches Problem wie zuvor mit dem Portal...Spiel hier zuende?
+- Der Boss macht nicht wirklich was, außer grau zu blinken
+
+Feedback
+
+- Wenn bei 1 Leben, ist das Piepen SEHR SEHR nervig, insbesondere weil es ansonsten keinen Ton im Spiel gibt (ist das Absicht?) Imo langt es völlig, dass die Health Bar rot ist. 
+- Ich würde gerne in irgendeiner Weise über ein Audiosignal mitgeteilt bekommen, wenn ich Gegner treffe - das Aufleuchten ist sehr kurz
+- Gegner sterben schon, bevor die Angriffsanimation zu Ende ist
+- Wenn man springt und angreift mit LMT, beginnt die Animation, bricht aber ab; das ist ein bisschen verwirrend als Spieler - gilt das als Attacke oder nicht?
+- Steuerung sollte irgendwo im Optionenbildschirm kurz erklärt sein
+- Wenn der Abschnitt zuende ist, dann kommt man an eine Säule/Pfosten und wird zu einer neuen Karte verfrachtet. Wäre es da nicht sinnvoller, wieder ein Portal zu benutzen?
+    - Update: Oh, manchmal ist auch ein Portal da. Aber meistens nicht.
+- Wofür ist der NPC im Dorf?
+- suoerkleinlich, aber: Wenn man im NPC im Dorf sollte man _hinter_ ihm langlaufen, weil MC höher als er platziert ist. Stattdessen läuft man vor ihm lang und es sieht aus, als ob MC schwebt.
+- generell: MC wird ein ganzes Stück nach unten verfrachtet, wenn man das Schwert schwingt und läuft auch ein bisschen durch die Luft, wenn sie rennt, aber das ist nicht superstörend
+- vermutlich nur persönlicher Geschmack und sollte nicht unbedingt zu Herzen genommen werden, aber mich stört, dass alles Pixelart ist und dann die Health-Bar und die Schrift darunter so "glatt" aussieht :)
+
+--------------------------------------
+- Konzept, die Fähigkeiten von den Gegnern zu übernehmen ist sehr cool :)
+- der Menü-Bildschirm ist ästhetisch sehr ansprechend! Mag auch die Hintergründe
+- MC ist cute!
